@@ -1,0 +1,11 @@
+.PostItem {
+	border-bottom: 1px solid #ddd;
+	margin: 10px 0px;
+    padding: 5px 0;
+}
+.PostItem img{
+	max-width: 80px;
+}
+.PostItem h5{
+	cursor: pointer;
+}
