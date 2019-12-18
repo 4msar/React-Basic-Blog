@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Basic-Blog/static/css/main.5d911d19.chunk.css",
+    "main.js": "/React-Basic-Blog/static/js/main.d7079cd6.chunk.js",
+    "main.js.map": "/React-Basic-Blog/static/js/main.d7079cd6.chunk.js.map",
+    "runtime-main.js": "/React-Basic-Blog/static/js/runtime-main.a7dcd4a6.js",
+    "runtime-main.js.map": "/React-Basic-Blog/static/js/runtime-main.a7dcd4a6.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/React-Basic-Blog/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.d6d0c0bd.chunk.js": "/React-Basic-Blog/static/js/2.d6d0c0bd.chunk.js",
+    "static/js/2.d6d0c0bd.chunk.js.map": "/React-Basic-Blog/static/js/2.d6d0c0bd.chunk.js.map",
+    "index.html": "/React-Basic-Blog/index.html",
+    "precache-manifest.51d3cc145c678f67d395a6e235f6afbb.js": "/React-Basic-Blog/precache-manifest.51d3cc145c678f67d395a6e235f6afbb.js",
+    "service-worker.js": "/React-Basic-Blog/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/React-Basic-Blog/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.5d911d19.chunk.css.map": "/React-Basic-Blog/static/css/main.5d911d19.chunk.css.map",
+    "static/js/2.d6d0c0bd.chunk.js.LICENSE": "/React-Basic-Blog/static/js/2.d6d0c0bd.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7dcd4a6.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.d6d0c0bd.chunk.js",
+    "static/css/main.5d911d19.chunk.css",
+    "static/js/main.d7079cd6.chunk.js"
+  ]
+}
